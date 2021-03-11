@@ -1,0 +1,14 @@
+
+.contend{
+    width: 100%;
+    
+    background:  white;
+    margin: 15px;
+    display: grid;
+    grid-template-columns: minmax(200px 350px) minmax(200px 350px) minmax(200px 350px) minmax(200px 350px);
+    grid-gap: 10px;
+    display: flex;
+}
+
+
+

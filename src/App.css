@@ -1,0 +1,9 @@
+body{
+    padding: 0px;
+    margin:20px;
+    background: red;
+}
+
+.maine{
+    display: flex;
+}
